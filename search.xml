@@ -4,17 +4,17 @@
   
     
     <entry>
-      <title>BiliBili推荐作品</title>
-      <link href="/2023/11/10/BiliBili%E6%8E%A8%E8%8D%90%E4%BD%9C%E5%93%81/"/>
-      <url>/2023/11/10/BiliBili%E6%8E%A8%E8%8D%90%E4%BD%9C%E5%93%81/</url>
+      <title>一款新的抓包软件</title>
+      <link href="/2023/11/11/%E4%B8%80%E6%AC%BE%E6%96%B0%E7%9A%84%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6/"/>
+      <url>/2023/11/11/%E4%B8%80%E6%AC%BE%E6%96%B0%E7%9A%84%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><div align="center">通过termux安装青龙面板</div><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=875301621&page=" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="介绍一款新的抓包软件：Network-Proxy-Flutter"><a href="#介绍一款新的抓包软件：Network-Proxy-Flutter" class="headerlink" title="介绍一款新的抓包软件：Network Proxy Flutter"></a>介绍一款新的抓包软件：Network Proxy Flutter</h1><h2 id="下载地址：点击下载"><a href="#下载地址：点击下载" class="headerlink" title="下载地址：点击下载"></a>下载地址：<a href="https://gitee.com/wanghongenpin/network-proxy-flutter/releases">点击下载</a></h2><p>近年来，随着网络技术的不断发展，抓包软件在网络调试和安全审计中扮演着越来越重要的角色。为了提供更好的抓包体验，一款名为 Network Proxy Flutter 的新型抓包软件应运而生。</p><h3 id="功能特点："><a href="#功能特点：" class="headerlink" title="功能特点："></a>功能特点：</h3><ul><li><p><strong>多平台支持：</strong> Network Proxy Flutter 支持在 Windows、Mac 和 Linux 等多个平台上运行，用户可以根据自己的需要在不同的操作系统上使用该软件。</p></li><li><p><strong>易用性强：</strong> 无需复杂的设置，用户可以轻松地通过简单的操作开始抓包并分析数据流量，使网络调试变得更加高效。</p></li><li><p><strong>实时抓包：</strong> Network Proxy Flutter 具备实时抓包功能，可以实时捕获网络数据包，帮助用户及时发现和解决网络问题。</p></li><li><p><strong>HTTPS 支持：</strong> 该软件支持 HTTPS 流量的抓包和解析，帮助用户更好地理解和分析网络通信数据。</p></li><li><p><strong>可视化分析：</strong> Network Proxy Flutter 提供直观的数据流图表和分析工具，使用者可以方便地查看和分析抓取的数据流量。</p></li><li><p><strong>定制化设置：</strong> 软件内置丰富的网络设置选项，用户可以根据自己的需求进行定制化和优化，并实时查看设置的生效情况。</p></li></ul><h3 id="下载地址："><a href="#下载地址：" class="headerlink" title="下载地址："></a>下载地址：</h3><p>如果您对 Network Proxy Flutter 感兴趣，可以点击以下链接下载使用：<br><a href="https://gitee.com/wanghongenpin/network-proxy-flutter/releases">Network Proxy Flutter 下载地址</a></p><p>总之，Network Proxy Flutter 作为一款全新的抓包软件，将带来更好的抓包体验和更高效的网络调试功能，相信它会成为网络工程师和安全工程师们的得力助手。</p>]]></content>
       
       
       
         <tags>
             
-            <tag> BiliBili </tag>
+            <tag> 抓包 </tag>
             
         </tags>
       
